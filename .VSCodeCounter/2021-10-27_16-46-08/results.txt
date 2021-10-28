@@ -1,0 +1,70 @@
+Date : 2021-10-27 16:46:08
+Directory : /home/keeganpratt/sei/projects/final-project/frontend
+Total : 32 files,  17683 codes, 23 comments, 231 blanks, all 17937 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     16,385 |          0 |          3 |     16,388 |
+| JavaScript |         23 |        955 |          0 |        148 |      1,103 |
+| CSS        |          4 |        285 |          0 |         46 |        331 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                       |         32 |     17,683 |         23 |        231 |     17,937 |
+| public                                                                                                  |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                     |         27 |      1,240 |          0 |        194 |      1,434 |
+| src/components                                                                                          |         20 |        865 |          0 |        136 |      1,001 |
+| src/components/comments                                                                                 |          4 |        170 |          0 |         22 |        192 |
+| src/components/community                                                                                |          4 |        101 |          0 |         22 |        123 |
+| src/components/forms                                                                                    |          5 |        168 |          0 |         30 |        198 |
+| src/components/posts                                                                                    |          3 |        209 |          0 |         33 |        242 |
+| src/components/views                                                                                    |          3 |        165 |          0 |         23 |        188 |
+| src/hooks                                                                                               |          1 |         58 |          0 |          8 |         66 |
+| src/lib                                                                                                 |          1 |         17 |          0 |          1 |         18 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /home/keeganpratt/sei/projects/final-project/frontend/README.md                                         | Markdown   |         38 |          0 |         33 |         71 |
+| /home/keeganpratt/sei/projects/final-project/frontend/package-lock.json                                 | JSON       |     16,315 |          0 |          1 |     16,316 |
+| /home/keeganpratt/sei/projects/final-project/frontend/package.json                                      | JSON       |         45 |          0 |          1 |         46 |
+| /home/keeganpratt/sei/projects/final-project/frontend/public/index.html                                 | HTML       |         20 |         23 |          1 |         44 |
+| /home/keeganpratt/sei/projects/final-project/frontend/public/manifest.json                              | JSON       |         25 |          0 |          1 |         26 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/App.css                                       | CSS        |        240 |          0 |         40 |        280 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/App.js                                        | JavaScript |         34 |          0 |          4 |         38 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/TopBar.js                          | JavaScript |         52 |          0 |          6 |         58 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/comments/Comment.js                | JavaScript |         99 |          0 |         16 |        115 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/comments/CommentSection.js         | JavaScript |         22 |          0 |          3 |         25 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/comments/FakeCommentData.js        | JavaScript |         33 |          0 |          2 |         35 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/comments/commentArrayParser.js     | JavaScript |         16 |          0 |          1 |         17 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/community/CommunityPreview.js      | JavaScript |         13 |          0 |          2 |         15 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/community/ReccomenedCommunities.js | JavaScript |         23 |          0 |          6 |         29 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/community/SearchedCommunities.js   | JavaScript |         42 |          0 |          8 |         50 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/community/SubscribedCommunities.js | JavaScript |         23 |          0 |          6 |         29 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/forms/EditCommentForm.js           | JavaScript |         26 |          0 |          6 |         32 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/forms/EditPostForm.js              | JavaScript |         34 |          0 |          6 |         40 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/forms/NewCommentForm.js            | JavaScript |         24 |          0 |          5 |         29 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/forms/NewCommunityForm.js          | JavaScript |         43 |          0 |          7 |         50 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/forms/NewPostForm.js               | JavaScript |         41 |          0 |          6 |         47 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/posts/FocusedPost.js               | JavaScript |        152 |          0 |         23 |        175 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/posts/PreviewPost.js               | JavaScript |         18 |          0 |          2 |         20 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/posts/PreviewPostContainer.js      | JavaScript |         39 |          0 |          8 |         47 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/views/AllCommunityOverview.js      | JavaScript |         44 |          0 |          7 |         51 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/views/CommunityView.js             | JavaScript |         92 |          0 |         14 |        106 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/components/views/communityBar.css             | CSS        |         29 |          0 |          2 |         31 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/coreStyles.css                                | CSS        |          0 |          0 |          1 |          1 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/hooks/queryHooks.js                           | JavaScript |         58 |          0 |          8 |         66 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/index.css                                     | CSS        |         16 |          0 |          3 |         19 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/index.js                                      | JavaScript |         10 |          0 |          1 |         11 |
+| /home/keeganpratt/sei/projects/final-project/frontend/src/lib/dateHelp.js                               | JavaScript |         17 |          0 |          1 |         18 |
+| Total                                                                                                   |            |     17,683 |         23 |        231 |     17,937 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
